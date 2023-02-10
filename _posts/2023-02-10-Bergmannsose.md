@@ -5,7 +5,7 @@ section: random
 ---
 *... lässt dich jeden Gipfel erklimmen*
 
-Inhalt für 4 Klettermäuse:
+## Inhalt für 4 Klettermäuse:
 - 2 Dosen ... gehackte Tomaten
 - 4 ... frische Tomaten (für den extra Frische-Kick)
 - 1 Batzen ... Feta (oder Hirtenkäse gegen Ende vom Monat)
