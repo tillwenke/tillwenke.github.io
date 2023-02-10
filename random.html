@@ -1,0 +1,17 @@
+---
+layout: post
+title: Random
+---
+<h1>...some things I needed to write up</h1>
+
+{% assign filtered_posts = site.posts | where: 'section', 'random' %}
+
+<ul>
+  {% for post in filtered_posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+

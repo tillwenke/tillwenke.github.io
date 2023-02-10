@@ -21,11 +21,11 @@
 title: Till Wenke
 email: wenke.till@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Till Wenke writing about this and that and collecting project. Mostly computer science related.
+  me writing about this and that and collecting projects. Mostly computer science related.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tillwenke
+github_username:  tillwenke
 
 # Build settings
 theme: minima

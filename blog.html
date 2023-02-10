@@ -1,0 +1,16 @@
+---
+layout: post
+title: Blog
+---
+<h1>...latest posts</h1>
+
+{% assign filtered_posts = site.posts | where: 'section', 'blog' %}
+
+<ul>
+  {% for post in filtered_posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
