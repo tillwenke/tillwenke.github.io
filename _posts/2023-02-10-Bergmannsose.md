@@ -4,8 +4,9 @@ author: till
 section: random
 ---
 
-#Bergmannsose
-... lässt dich jeden Gipfel erklimmen.
+# Bergmannsose
+
+*... lässt dich jeden Gipfel erklimmen*
 
 Inhalt für 4 Klettermäuse:
 - 2 Dosen ... gehackte Tomaten
