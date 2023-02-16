@@ -22,9 +22,9 @@ title: Till Wenke
 email: wenke.till@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   me writing about this and that and collecting projects. mostly computer science related.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tillwenke
+baseurl: "/about" # the subpath of your site, e.g. /blog
+url: "https://tillwenke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
 github_username:  tillwenke
 
 # Build settings
