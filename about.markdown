@@ -8,7 +8,7 @@ A site by Till Wenke.
 
 Currently in Spain.
 
-Computer Science student @HPI interested in Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
+Computer Science student @HPI interested in Machine Learning, Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
 
 Working on...
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/)
