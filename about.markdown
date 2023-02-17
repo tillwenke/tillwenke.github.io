@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/favicon.ico)
+
 A site by Till Wenke.
 
 Currently in Spain.
