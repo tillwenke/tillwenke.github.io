@@ -26,6 +26,6 @@ Well, here is the process and how it turned out eventually...
 Final thought: the fee might not hurt that much as an entrepreneur who want to kick-start their company here. But with 1 to 2 months time to finally receive your #eresidency I imagine you might get it done in your own country as well. Nevertheless access to the European business environment can be of value for many founders around the globe.
 
 
-![test](/_posts/assets/car_lidar.png)
+![test]({{site.url}}/_posts/assets/car_lidar.png)
 ![](/_posts/assets/2.jpeg)
 ![](/_posts/assets/3.jpeg)
