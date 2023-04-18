@@ -45,7 +45,7 @@ Luckily we're not the first that wants to use reinforcement learning in the self
 
 ### **2.2.1 OpenAI Gym Environment for Donkey Car**
 The OpenAI Gym repository has a reinforcement learning implementation based on [this blog post](https://flyyufelix.github.io/2018/09/11/donkey-rl-simulation.html) about implementing Double Deep Q Learning in the donkey simulator. Their implementation is a little old, and has a few issues with the latest versions of its libraries, which we have fixed in [our fork of the project](https://github.com/Lukires/gym-donkeycar). Starting the training is quite simple, once you have set up the project and the simulator, simply use ``python gym-donkeycar/examples/reinforcement_learning/ddqn.py --sim <path to simulator>``. Which starts the training as seen in the image below.
-![DDQN training](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/donkey_ddqn_test.png)
+![DDQN training](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/donkey_ddqn_test.png)
 
 ### **2.2.2 Expanding upon the solution**
 We now how a working simulated environment that lets us train a reinforcement learning model for our donkeycar. Now the task becomes to make adjustments, such that is suits our use case ([ADL Minicar Challenge 2023](https://courses.cs.ut.ee/t/DeltaXSelfDriving/Main/HomePage)) as well as possible.
@@ -59,14 +59,14 @@ The most important part of the course are the walls, as this is what is defining
 ##### **2.2.2.1.2 Implementing it in Unity**
 To make it in Unity we first had to take measurements of the course and the real life donkey car, such that we would have the correct proportions in our simulation.
 From there, implementing the course in Unity was fairly trivial, as Unity is mostly drag and drop. We placed a bunch of cubes, made them colideable and gave them a wood-like texture from [Polyhaven](https://polyhaven.com/textures). Then we moved the Car spawn point to the course start point, and defined a path throughout the course that our model will be able to use to evaluate how well it is driving. All resulting in this:
-![Simulator in unity](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/full_delta.png)
-![DDQN running on our own course](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/ddqn_full_delta.png)
+![Simulator in unity](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/full_delta.png)
+![DDQN running on our own course](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/ddqn_full_delta.png)
 
 The DDQN implementation transforms the image into a smaller black and white image, such that it is much easier to process. This gives us images like this one:\
-![A very low res image black and white image of our track](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/car_pov_uncropped.jpg).\
+![A very low res image black and white image of our track](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/car_pov_uncropped.jpg).\
 While this is great, it still leaves a lot of noise in the image, in terms of showing things that are not relevant to the track, in this case the background.
 We can improve upon this by cropping the top part of images off, such that only the track is shown to our model.\
-![A very low res image black and white image of our track and the top is cropped off](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/car_pov.jpg)
+![A very low res image black and white image of our track and the top is cropped off](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/car_pov.jpg)
 
 #### **Changing gym-donkeycar for better learning**
 ##### **Changing reward function to use LIDAR**
@@ -85,7 +85,7 @@ def calc_reward(self, done: bool) -> float:
     return ((1.0 - (self.cte / self.max_cte) ** 2) * (self.speed / max_speed))
 ```
 Cross track error makes a lot of sense, if your course might not have some hard defined boundaries, but in our case it does. The hard defined boundaries being the walls in the course. We would rather have the reward be calculated with this in mind. Therefore we have changed the reward function to use LIDAR, which can essentially be seen as shooting out a lot of lasers in a bunch of different directions and calculating the distance to the first thing the lasers hit. As seen in the image below:\
-![It is our donkey car with a bunch of LIDAR lasers being shot from it.](https://raw.githubusercontent.com/Lukires/blog/main/_posts/assets/car_lidar.png)\
+![It is our donkey car with a bunch of LIDAR lasers being shot from it.](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/car_lidar.png)\
 
 Instead of having a reward function that tries to minimize the cross track error, we will instead be using a reward function that tries to maximize the minimum distance to the walls on the course. We have implemented this as such:
 ```python
