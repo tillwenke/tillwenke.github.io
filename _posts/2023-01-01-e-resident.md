@@ -27,5 +27,5 @@ Final thought: the fee might not hurt that much as an entrepreneur who want to k
 
 
 ![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/1.jpeg)
-![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/1.jpeg)
-![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/1.jpeg)
+![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/2.jpeg)
+![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/3.jpeg)
