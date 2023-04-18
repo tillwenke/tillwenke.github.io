@@ -6,4 +6,4 @@ author: Till Wenke
 section: blog
 ---
 
-Find the article here: [https://github.com/tillwenke/donkeycar_battery_monitoring#ideas-how-to-progress]
+Find the article here: https://github.com/tillwenke/donkeycar_battery_monitoring#ideas-how-to-progress
