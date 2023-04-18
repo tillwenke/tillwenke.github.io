@@ -3,7 +3,7 @@ layout: post
 title:  "Autonomous vehicles: Training a donkey car through reinforcement learning in a simulation"
 date:   2022-10-25
 author: Lukas Schilling and Till Wenke
-section: random
+section: blog
 ---
 # An autonomous vehicle project at Univeristy of Tartu
 - [An autonomous vehicle project at Univeristy of Tartu](#an-autonomous-vehicle-project-at-univeristy-of-tartu)
