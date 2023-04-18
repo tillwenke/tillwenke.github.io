@@ -1,6 +1,6 @@
 ---
 layout: post
-author: till
+author: Till Wenke
 section: random
 ---
 *... lässt dich jeden Gipfel erklimmen*
