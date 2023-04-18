@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On how to (not) become a Estonian e-resident"
+title:  "On how to (not) become an Estonian e-resident"
 author: Till Wenke
 section: random
 ---
