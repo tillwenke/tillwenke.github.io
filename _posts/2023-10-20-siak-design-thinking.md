@@ -17,6 +17,6 @@ section: blog
 `{{ site.baseurl }}/pdfs/foo.pdf`
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRA9Xo2Dxfp98DCX7Wp2pAKGQvb54iWPOeozctDPxIjNxss62GmdEZKIrh5Vks-ZSy1t9Hhjk_R8BWv/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRA9Xo2Dxfp98DCX7Wp2pAKGQvb54iWPOeozctDPxIjNxss62GmdEZKIrh5Vks-ZSy1t9Hhjk_R8BWv/pub?embedded=true" style="position: relative; height: 100%; width: 100%;" ></iframe>
 
 https://docs.google.com/document/d/e/2PACX-1vRA9Xo2Dxfp98DCX7Wp2pAKGQvb54iWPOeozctDPxIjNxss62GmdEZKIrh5Vks-ZSy1t9Hhjk_R8BWv/pub
