@@ -13,6 +13,9 @@ Currently in Spain.
 Computer Science student @HPI interested in Machine Learning, Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
 
 Working on...
+- [Hitchmap](https://hitchmap.com/)
+
+Worked on...
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/)
 
 Reach me at [wenke.till@gmail.com](mailto:wenke.till@gmail.com) or the following platforms...
