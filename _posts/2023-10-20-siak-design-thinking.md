@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ideas on eco-friendly Donkey Cars"
-date:   2023-02-06
+title:  "Design Thinking"
+date:   2023-10-20
 author: Till Wenke
 section: blog
 ---
