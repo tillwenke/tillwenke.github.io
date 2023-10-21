@@ -5,16 +5,9 @@ date:   2023-10-20
 author: Marie-Therese Arnold, Felix Burau, Katharina Schreiber, André Wiesner, Till Wenke
 section: blog
 ---
-![DDQN training](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/design_thinking_siak_42.pdf)
+Check it out  ![here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/design_thinking_siak_42_compressed.pdf).
 
-`<br> sdfdsf </br>`
 
-```
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
-```
+# Abstract
 
-`{{ site.baseurl }}/pdfs/foo.pdf`
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRA9Xo2Dxfp98DCX7Wp2pAKGQvb54iWPOeozctDPxIjNxss62GmdEZKIrh5Vks-ZSy1t9Hhjk_R8BWv/pub?embedded=true" style="position: relative; height: 100%; width: 100%;" ></iframe>
-
-https://docs.google.com/document/d/e/2PACX-1vRA9Xo2Dxfp98DCX7Wp2pAKGQvb54iWPOeozctDPxIjNxss62GmdEZKIrh5Vks-ZSy1t9Hhjk_R8BWv/pub
+Imagine a city where citizens, academia and business are in dialogue. In the space 421, the Science and Innovation Alliance Kaiserslautern (SIAK) strives to make this vision a reality. In collaboration with 42 and SIAK, we present our solution, the 42 Community Projects Wall (The Wall) that guides visitors and people that would like to connect to others along the four phases of visit, explore, share and connect. 42 is a bright and spacious place with flexible areas and a cozy café, right in the middle of Kaiserslautern. The initiator SIAK is striving for a multifaceted community of citizens and science community in which the scientific potential of Kaiserslautern can be presented and experienced, and in which the citizens can take over step by step. So far, there is no such place of exchange in the city center. Now the space is there, and our challenge is to create a lively community. The 42 Community Projects Wall focuses on addressing individuals by providing information about what is happening inside the SIAK-community and motivating them to contribute to a lively space in Kaiserslautern. IMG 1: the final prototype Our solution aims at fulfilling basic psychological needs of users - we address needs such as autonomy, competence and connectedness. 1 42 is a space in the city center of Kaiserslautern that aims to facilitate a dialogue between citizens and the science community in Kaiserslautern. 3Our solution provides an interactive entry point into the 42 exhibition space and its innovative projects and installations by depicting all projects in space 42 with the goal to spark interest. In addition, our focus on the local community attracts like-minded users, enables them to collaborate and encourages interdisciplinary connections within different fields of research, business and association projects. In particular, the 42 Community Project Wall is designed to give a constant overview of the current projects in a very inclusive and appealing way with calls to actions. It gives students who are well connected inspiration and ideas on how they can activate their own network to join in. By tapping into an even bigger network through personal referrals, SIAK will have access to an even greater community in Kaiserslautern, who wants to shape a vibrant future for the city. We want to empower students to claim their future by connecting their peers to the ongoing scientific and technological development of the city.
