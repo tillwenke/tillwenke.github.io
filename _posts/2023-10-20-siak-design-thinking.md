@@ -5,8 +5,7 @@ date:   2023-10-20
 author: Marie-Therese Arnold, Felix Burau, Katharina Schreiber, André Wiesner, Till Wenke
 section: blog
 ---
-Check it out  ![here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/design_thinking_siak_42_compressed.pdf).
-
+Check it out [here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/design_thinking_siak_42_compressed.pdf).
 
 # Abstract
 
