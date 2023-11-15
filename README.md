@@ -2,4 +2,8 @@
 
 https://tillwenke.github.io
 
-To edit: just add new articles to _posts dir.
+## Adding new posts
+just add new articles to _posts dir.
+
+## Get google analytics
+https://desiredpersona.com/google-analytics-jekyll/
