@@ -13,10 +13,10 @@ Currently in Potsdam/Berlin, Germany.
 Computer Science student @HPI interested in Machine Learning, Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
 
 Working on...
-- [Hitchmap](https://hitchmap.com/)
+- [Hitchmap](https://hitchmap.com/) and [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 
 Worked on...
-- [TEDxUniPotsdam](https://tedxunipotsdam.de/)
+- [TEDxUniPotsdam](https://tedxunipotsdam.de/) as a board member of [Engins e.V.](https://tedxpotsdam.de/en/engins)
 
 Reach me at [wenke.till@gmail.com](mailto:wenke.till@gmail.com) or the following platforms...
 
