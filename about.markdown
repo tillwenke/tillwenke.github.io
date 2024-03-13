@@ -6,8 +6,6 @@ permalink: /about/
 
 ![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/favicon.ico)
 
-A site by Till Wenke.
-
 Currently in Potsdam/Berlin, Germany.
 
 Computer Science student @HPI interested in Machine Learning, Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
