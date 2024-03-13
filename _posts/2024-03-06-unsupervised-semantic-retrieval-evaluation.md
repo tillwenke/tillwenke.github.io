@@ -5,7 +5,7 @@ date:   2024-03-06
 author: Till Wenke, Fabian Bergmann
 section: blog
 ---
-I summarized the work on semantic retrieval that I did during my intership at [ML6](https://www.ml6.eu/) in a blog post.
+I summarized the work on semantic retrieval that I did during my internship at [ML6](https://www.ml6.eu/) in a blog post.
 Download the full article [here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/ml6_blog_post.pdf).
 See [here]() for the original post.
 
