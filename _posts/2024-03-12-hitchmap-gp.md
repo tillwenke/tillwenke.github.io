@@ -8,4 +8,4 @@ section: blog
 
 In the making...
 
-See [](https://github.com/Hitchwiki/hitchmap-data/tree/main/visualization)
+See [GitHub repo](https://github.com/Hitchwiki/hitchmap-data/tree/main/visualization)
