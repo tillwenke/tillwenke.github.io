@@ -21,7 +21,7 @@ Reach me at [wenke.till@gmail.com](mailto:wenke.till@gmail.com) or the following
 ...professional
 - [GitHub](https://github.com/tillwenke)
 - [Hugging Face](https://huggingface.co/tillwenke)
-- [LinkedIn](https://www.linkedin.com/in/till-wenke-7768a51b5/?originalSubdomain=de)
+- [LinkedIn](https://www.linkedin.com/in/till-wenke/)
 
 
 ...output
