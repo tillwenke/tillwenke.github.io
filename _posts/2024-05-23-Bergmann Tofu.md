@@ -1,6 +1,8 @@
 ---
 layout: post
 author: Till Wenke
+title: Bergmann Tofu
+date: 2024-05-23
 section: random
 ---
 ## Ingredients
