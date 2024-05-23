@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Till Wenke
-title: Bergmann Tofu
+title: Bergmanntofu
 date: 2024-05-23
 section: random
 ---
