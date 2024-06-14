@@ -17,6 +17,7 @@ layout: default
         {%- if post.tags -%}
         {%- for tag in post.tags -%}
         <span class="post-meta" style="background:#ff0000;">{{tag}}</span>
+        {%- endfor -%}
         {%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
