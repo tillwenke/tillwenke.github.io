@@ -16,7 +16,7 @@ layout: default
       <li>
         {%- if post.tags -%}
         {%- for tag in post.tags -%}
-        <span class="post-meta" background: #CDCDCD; border-radius: 0.25em;">{{tag}}</span>
+        <span class="post-meta" background: #CDCDCD; border-radius: 0.25em; padding: 5px 30px 5px 30px;">{{tag}}</span>
         {%- endfor -%}
         {%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
