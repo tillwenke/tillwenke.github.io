@@ -16,16 +16,12 @@ Working on...
 Worked on...
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/) as a board member of [Engins e.V.](https://tedxpotsdam.de/en/engins)
 
-Reach me at [wenke.till@gmail.com](mailto:wenke.till@gmail.com) or the following platforms...
+Reach me at surname.firstname[at]gmail.com or the following platforms...
 
 ...professional
 - [GitHub](https://github.com/tillwenke)
 - [Hugging Face](https://huggingface.co/tillwenke)
 - [LinkedIn](https://www.linkedin.com/in/till-wenke/)
-
-
-...output
-- [YouTube](https://www.youtube.com/channel/UChdzVLXFegUF9oTZY0t7HJw)
 
 
 ...social
@@ -40,3 +36,6 @@ Reach me at [wenke.till@gmail.com](mailto:wenke.till@gmail.com) or the following
 - [Trustroots](https://www.trustroots.org/profile/tillwenke)
 - [BeWelcome](https://bewelcome.org/members/TillWenke)
 - [CouchSurfing](https://www.couchsurfing.com/people/till-wenke)
+
+...output
+- [YouTube](https://www.youtube.com/channel/UChdzVLXFegUF9oTZY0t7HJw)
