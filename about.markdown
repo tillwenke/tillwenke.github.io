@@ -10,8 +10,12 @@ Currently in Potsdam/Berlin, Germany.
 
 Computer Science student @HPI interested in Machine Learning, Entrepreneurship and Marketing and of course Sustainability and Sharing Economy.
 
+Working at [OneThousand](https://onethousand.ai/).
+
 Working on...
-- [Hitchmap](https://hitchmap.com/) and [Hitchwiki](https://hitchwiki.org/en/Main_Page)
+- [Hitchmap](https://hitchmap.com/)
+- [Hitchwiki](https://hitchwiki.org/en/Main_Page)
+- [Nostroots](https://github.com/Trustroots/nostroots)
 
 Worked on...
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/) as a board member of [Engins e.V.](https://tedxpotsdam.de/en/engins)
