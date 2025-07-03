@@ -2,6 +2,8 @@
 layout: post
 author: Till Wenke
 section: random
+tags:
+  - Cooking
 ---
 *... lässt dich jeden Gipfel erklimmen*
 
