@@ -4,6 +4,8 @@ author: Till Wenke
 title: Bergmanntofu
 date: 2024-05-23
 section: random
+tags:
+  - Cooking
 ---
 ## Ingredients
 
