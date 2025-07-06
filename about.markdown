@@ -29,6 +29,11 @@ Reach me at **surname.firstname[at]gmail.com** or the following platforms...
 ...professional
 - [LinkedIn](https://www.linkedin.com/in/till-wenke/)
 
+...research
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=JAERRYgAAAAJ)
+- [arXiv](https://arxiv.org/a/wenke_t_1.html)
+- [ORCID](https://orcid.org/my-orcid?orcid=0009-0001-2367-8194)
+
 ...social
 
 - [Trustroots](https://www.trustroots.org/profile/tillwenke)
