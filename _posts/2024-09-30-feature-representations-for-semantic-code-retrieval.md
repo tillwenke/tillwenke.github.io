@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feature Representations for Semantic Code Retrieval"
+title:  "Feature Representations for Semantic Code Retrieval (Bachelor's Thesis)"
 date:   2024-09-30
 author: Till Wenke
 section: blog
