@@ -11,7 +11,8 @@ I worked on predicting waiting time for hitchhikers previously and also wrote ab
 The dataset that I used from this task stems from `hitchmap.com` (and its predecessors) which I am working on as well.
 Now it was time to write a clean summary of this dataset - I decided to do this in the form of a scientific paper.
 
-Download the full paper from [arXiv]([https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/ml6_blog_post.pdf](https://arxiv.org/abs/2506.21946)).
+Download the full paper from [arXiv](https://arxiv.org/abs/2506.21946).
+
 # Abstract
 
 Hitchhiking, a spontaneous and decentralized mode of travel, has long eluded systematic study due to its informal nature. This paper presents and analyzes the largest
