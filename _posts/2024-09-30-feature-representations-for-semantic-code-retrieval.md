@@ -7,7 +7,7 @@ section: blog
 tags:
   - ML
 ---
-My Bachelor's thesis was part of a year-long project around LLM-driven code generation. In my thesis I covered the aspect of how to represent code to make it searchable.
+My Bachelor's thesis was part of a year-long project around LLM-driven code generation - imagine tackling [SWE-bench](https://arxiv.org/abs/2310.06770) but on our own dataset of public Java projects. In my thesis I covered the aspect of how to represent code to make it searchable.
 
 We presented our work in an easily digestable format at our [Bachelor's podium](https://www.tele-task.de/lecture/video/10764/).
 
