@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling"
+title:  "Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling [Paper]"
 date:   2025-06-27
 author: Till Wenke
 section: blog
@@ -26,4 +26,4 @@ on the lived realities of hitchhikers. While the dataset has inherent biases and
 limitations—such as demographic skew and unverifiable entries it offers a rare
 and valuable window into an alternative form of mobility. I conclude by outlining
 future directions for enriching the dataset and advancing research on hitchhiking
-as both a transportation practice and cultural phenomenon
+as both a transportation practice and cultural phenomenon.
