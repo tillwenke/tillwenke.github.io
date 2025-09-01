@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feature Representations for Semantic Code Retrieval (Bachelor's Thesis)"
+title:  "Feature Representations for Semantic Code Retrieval [Bachelor's Thesis]"
 date:   2024-09-30
 author: Till Wenke
 section: blog
@@ -11,7 +11,7 @@ My Bachelor's thesis was part of a year-long project around LLM-driven code gene
 
 We presented our work in an easily digestable format at our [Bachelor's podium](https://www.tele-task.de/lecture/video/10764/).
 
-Our work was featured and we attended SAP Sapphire Barcelona 2024.
+Our work was featured at and we attended SAP Sapphire Barcelona 2024.
 
 
 # Abstract
