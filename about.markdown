@@ -15,7 +15,7 @@ Currently in Zürich, Switzerland.
 > Previously, I helped hidden champions and the public sector to bring machine learning solutions into their organizations.
 
 Working on...
-- [Hitchmap](https://hitchmap.com/)
+- [Hitchhiking Map](https://hitchmap.com/)
 - [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - [Nostroots](https://github.com/Trustroots/nostroots)
 
