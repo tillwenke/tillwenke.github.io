@@ -13,6 +13,8 @@ We presented our work in an easily digestable format at our [Bachelor's podium](
 
 Our work was featured at and we attended SAP Sapphire Barcelona 2024.
 
+Download the full thesis [here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/bachelors_thesis.pdf).
+
 
 # Abstract
 
