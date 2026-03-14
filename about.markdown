@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title: About
+description: "Till Wenke — Data Science Master's student at ETH Zürich. Working on AI for sustainability, AI safety, hitchhiking data, and the gift economy."
 permalink: /about/
 ---
 
-![](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/favicon.ico)
+![Portrait of Till Wenke](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/favicon.ico)
 
 Currently in Zürich, Switzerland.
 

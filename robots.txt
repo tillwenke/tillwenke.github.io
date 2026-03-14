@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tillwenke.github.io/sitemap.xml
