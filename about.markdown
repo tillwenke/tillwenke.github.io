@@ -14,7 +14,7 @@ Currently in Zürich, Switzerland.
 > I aim to use machine learning for good, thus I am interested in AI for sustainability and AI safety. Currently, I am shaping the way how data in the gift economy space and especially hitchhiking data is collected and leveraged to promote a society of trust and mutual aid.
 
 Working on...
-- [Hitchhiking Map](https://hitchmap.com/)
+- [Hitchhiking Map](https://maps.hitchwiki.org/) before I helped to build [Hitchmap](https://hitchmap.com/)
 - [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - [Nostroots](https://github.com/Trustroots/nostroots)
 
