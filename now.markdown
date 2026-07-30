@@ -9,7 +9,7 @@ permalink: /now/
 
 ## Now
 
-In the first year of my Master's at ETH Zurich. I am figuring out if research and AI for earth science are for me.
+In the second year of my Master's at ETH Zurich. I am figuring how I can contribute to AI safety and mitigating short and long term risk from machine intelligence on society.
 
 ---
 

@@ -22,7 +22,7 @@ title: Till Wenke
 author:
   name: Till Wenke
   email: 
-description: "Personal site of Till Wenke, Data Science Master's student at ETH Zurich. AI for sustainability, AI safety, and open data for the gift economy."
+description: "Personal site of Till Wenke, Data Science Master's student at ETH Zurich. AI safety, and open data for the gift economy."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tillwenke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tillwenke
