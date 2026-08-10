@@ -17,7 +17,7 @@ Working on...
 - [Effective Altruism Zurich](https://www.effectivealtruism.ch/zurich) at ETH
 
 Worked on...
-- [Hitchhiking Map](https://maps.hitchwiki.org/), before I helped to build [Hitchmap](https://hitchmap.com/)
+- [Hitchwiki Maps](https://maps.hitchwiki.org/) to collect data on hitchhiking rides, before I helped to build [Hitchmap](https://hitchmap.com/)
 - [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - [Nostroots](https://github.com/Trustroots/nostroots)
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/)
