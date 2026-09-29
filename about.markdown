@@ -13,6 +13,7 @@ Currently in Zürich, Switzerland.
 >
 > An abundance of machine intelligence seems inevitable within my lifetime. I am interested to understand non-human intelligence and how it affects society. Thus I care about AI safety, existencial and more short term risks. Recently, I was also shaping the way how data in the gift economy space and especially hitchhiking data is collected and leveraged to promote a society of trust and mutual aid - I would continue to pursue similar things if there were not more urgent matters calling - I am still happy to support similar effort where I can.
 
+If you want to reach out anonymously, you can use this [form](https://www.admonymous.co/till-wenke). Feedback is always much welcome.
 Working on...
 - [Effective Altruism Zurich](https://www.effectivealtruism.ch/zurich) at ETH
 
