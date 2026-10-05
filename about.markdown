@@ -23,7 +23,7 @@ Worked on...
 - [Nostroots](https://github.com/Trustroots/nostroots)
 - [TEDxUniPotsdam](https://tedxunipotsdam.de/)
 
-*I am happy to collaborate on any of the above topics and beyond or just to meet for a quick coffee chat, feel free to send me a message at **surname.firstname[at]gmail.com** or [@tillwenke](https://x.com/tillwenke) on Twitter.*
+*I am happy to collaborate on any of the above topics and beyond or just to meet for a quick coffee chat, feel free to send me a message at **surname.firstname[at]gmail.com** or @tillwenke on [Twitter](https://x.com/tillwenke) or [Bluesky](https://bsky.app/profile/tillwenke.bsky.social).*
 
 You can also find me on the following platforms...
 
