@@ -3,7 +3,6 @@ layout: post
 title:  "Unsupervised Evaluation of Semantic Retrieval by Generating Relevance Judgments with an LLM Judge"
 date:   2024-03-21
 author: Till Wenke, Fabian Bergmann
-section: blog
 tags:
   - ML
 ---

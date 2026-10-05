@@ -3,7 +3,6 @@ layout: post
 title:  "Design Thinking for Kaiserslautern"
 date:   2023-10-20
 author: Marie-Therese Arnold, Felix Burau, Katharina Schreiber, André Wiesner, Till Wenke
-section: blog
 ---
 For [SIAK](https://www.siak-kl.com/) we designed a concept for the attractiveness of and quality of stay of the [42](https://42kaiserslautern.de/) for the citizens of Kaiserslautern in the best possible way, to entice them to stay and come back. This project is part of [D-School Basic Track](https://hpi.de/en/school-of-design-thinking/for-students/basic-track.html). Check it out [here](https://raw.githubusercontent.com/tillwenke/tillwenke.github.io/main/_posts/assets/design_thinking_siak_42_compressed.pdf).
 

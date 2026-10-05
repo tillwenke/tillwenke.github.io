@@ -3,7 +3,6 @@ layout: post
 title:  "Autonomous vehicles: Training a donkey car through reinforcement learning in a simulation"
 date:   2022-10-25
 author: Lukas Schilling and Till Wenke
-section: blog
 tags:
   - ML
 ---

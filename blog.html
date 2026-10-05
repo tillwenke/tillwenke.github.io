@@ -1,16 +1,8 @@
 ---
-layout: page
-title: Blog
-description: "Articles by Till Wenke on machine learning, AI safety, and data science."
+layout: null
+sitemap: false
 ---
-<h1>...latest posts</h1>
-
-{% assign filtered_posts = site.posts | where: 'section', 'blog' %}
-
-<ul>
-  {% for post in filtered_posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    </li>
-  {% endfor %}
-</ul>
+<!doctype html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+<link rel="canonical" href="{{ '/' | absolute_url }}">

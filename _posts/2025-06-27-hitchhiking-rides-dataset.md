@@ -3,7 +3,6 @@ layout: post
 title:  "Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling [Paper]"
 date:   2025-06-27
 author: Till Wenke
-section: blog
 tags:
   - Hitchhiking
 ---

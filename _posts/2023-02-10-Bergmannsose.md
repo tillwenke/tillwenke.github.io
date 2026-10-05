@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Till Wenke
-section: random
 tags:
   - Cooking
 ---
