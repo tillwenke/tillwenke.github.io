@@ -3,8 +3,7 @@ layout: post
 author: Till Wenke
 title: Bergmanntofu
 date: 2024-05-23
-tags:
-  - Cooking
+tags: [cooking]
 ---
 ## Ingredients
 

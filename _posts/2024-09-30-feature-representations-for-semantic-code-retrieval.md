@@ -3,8 +3,7 @@ layout: post
 title:  "Feature Representations for Semantic Code Retrieval [Bachelor's Thesis]"
 date:   2024-09-30
 author: Till Wenke
-tags:
-  - ML
+tags: [ml, ai]
 ---
 My Bachelor's thesis was part of a year-long project around LLM-driven code generation - imagine tackling [SWE-bench](https://arxiv.org/abs/2310.06770) but on our own dataset of public Java projects. In my thesis I covered the aspect of how to represent code to make it searchable.
 

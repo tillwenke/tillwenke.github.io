@@ -3,8 +3,7 @@ layout: post
 title:  "Hitchhiking Rides Dataset: Two decades of crowd-sourced records on stochastic traveling [Paper]"
 date:   2025-06-27
 author: Till Wenke
-tags:
-  - Hitchhiking
+tags: [hitchhiking, ml]
 ---
 I worked on predicting waiting time for hitchhikers previously and also wrote about it here.
 The dataset that I used from this task stems from `hitchmap.com` (and its predecessors) which I am working on as well.

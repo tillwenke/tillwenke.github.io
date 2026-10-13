@@ -5,7 +5,7 @@ description: "Till Wenke — Data Science Master's student at ETH Zürich. Worki
 permalink: /about/
 ---
 
-![Portrait of Till Wenke](/assets/profile.jpg)
+<img src="/assets/profile.jpg" alt="Portrait of Till Wenke" width="100">
 
 Currently in Zürich, Switzerland.
 

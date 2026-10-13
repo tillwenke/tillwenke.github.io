@@ -1,8 +1,7 @@
 ---
 layout: post
 author: Till Wenke
-tags:
-  - Cooking
+tags: [cooking]
 ---
 *... lässt dich jeden Gipfel erklimmen*
 
