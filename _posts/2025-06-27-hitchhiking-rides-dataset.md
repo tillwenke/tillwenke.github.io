@@ -25,3 +25,6 @@ limitations—such as demographic skew and unverifiable entries it offers a rare
 and valuable window into an alternative form of mobility. I conclude by outlining
 future directions for enriching the dataset and advancing research on hitchhiking
 as both a transportation practice and cultural phenomenon.
+
+# Errata
+- the paper cites Guéguen 2012, however several of their works have been retracted including the cited paper
