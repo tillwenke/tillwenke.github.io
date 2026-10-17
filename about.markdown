@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/profile.jpg" alt="Portrait of Till Wenke" width="100">
 
-Currently in Zürich, Switzerland.
+Currently in Zürich, Switzerland / Munich, Germany.
 
 > I am a morally ambitious Master's student in Data Science at ETH Zürich.
 >
